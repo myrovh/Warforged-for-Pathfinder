@@ -1,0 +1,22 @@
+SOURCELONG:Eberron	SOURCESHORT:EB
+
+Warforged Composite Plating
+	TYPE:Suit.Standard
+	COST:0
+	WT:0
+	SPELLFAILURE:5
+	BONUS:COMBAT|AC|2|TYPE=Armor
+	EQMOD:FRT_LGHT
+	PRERACE:1,Warforged
+
+Warforged Mithral Plating
+	TYPE:Armor.Light.Suit.Standard
+	COST:0
+	WT:0
+	SPELLFAILURE:15
+	BONUS:COMBAT|AC|5|TYPE=Armor
+	EQMOD:FRT_LGHT
+	MAXDEX:5
+	ACCHECK:-2
+	PRERACE:1,Warforged
+	DESC:Granted by Mithral Body Feat

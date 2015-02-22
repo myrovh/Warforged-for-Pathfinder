@@ -1,0 +1,16 @@
+CAMPAIGN:Warforged for Pathfinder
+GAMEMODE:Pathfinder
+
+RANK:8
+GENRE:Fantasy
+BOOKTYPE:Homebrew
+SETTING:Eberron
+TYPE:Homebrew.Campaign
+SOURCELONG:Eberron Campaign Setting
+SOURCESHORT:EB
+ISOGL:NO
+
+EQUIPMENT:warforged_equipment.lst
+FEAT:warforged_feats.lst
+RACE:warforged_races.lst
+ABILITY:warforged_abilities.lst

@@ -1,0 +1,8 @@
+SOURCELONG:Eberron	SOURCESHORT:EB
+
+Mithral Body
+	TYPE:General.Fighter
+	PRERACE:1,Warforged
+	DESC:MUST BE TAKEN AT CHARACTER CREATION!!! Armour bonus is increased to +5 and you are considered to be wearing light armor including all penalties. Warforged Druids who take this feat cannot case druid spells or use any of their druid supernatural or spell-like class abilities. Warforged characters with this feat do not gain the benefit of any class feature prohibited to a character wearing light armor.
+	AUTO:EQUIP|Warforged Mithral Plating
+	AUTO:ARMORPROF|ARMORTYPE=Light
